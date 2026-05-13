@@ -1,4 +1,4 @@
-!pip install python-telegram-bot requests nest_asyncio
+
 
 import requests
 import random
