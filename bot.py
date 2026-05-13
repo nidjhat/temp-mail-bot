@@ -20,7 +20,7 @@ from telegram.ext import (
 
 nest_asyncio.apply()
 
-BOT_TOKEN = "BURAYA_YENI_TOKEN"
+BOT_TOKEN = "8770001757:AAGacSimXqe3nc1EUZX64hMJ3TwCuVKJWD8"
 
 BASE = "https://api.mail.tm"
 
